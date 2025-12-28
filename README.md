@@ -1,4 +1,4 @@
-
+Shweta Shrestha is a passionate developer with diverse coding experience across languages and tools. You build web and backend projects, contribute to open-source, and explore technologies like TypeScript, PHP, JavaScript, and databases. Your GitHub showcases practical apps and learning projects demonstrating commitment to growth and software craftsmanship
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.linkedin.com/in/shweta-shrestha-3681a1140/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shwetashrestha7@gmail.com) 
 
